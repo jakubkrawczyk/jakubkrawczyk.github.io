@@ -5,6 +5,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: "jakubkrawczyk/jekyll-profile-page@main"
 
+cover_photo:
+  url: assets/images/cover.jpg
+  alt: "Mountains covered with snow and dark sky in the background"
+
+profile_picture: assets/images/photo.png
+
 author:
   name: "Jakub Krawczyk"
   occupation: "Software Engineer"
