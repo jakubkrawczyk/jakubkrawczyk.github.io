@@ -3,7 +3,7 @@ email: "22723539+jakubkrawczyk@users.noreply.github.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-remote_theme: jakubkrawczyk/jekyll-profile-page
+remote_theme: "jakubkrawczyk/jekyll-profile-page@main"
 
 author:
   name: "Jakub Krawczyk"
